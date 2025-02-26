@@ -1,4 +1,4 @@
-# Single-cell Bioinformatics Project
+# scATACseq Analysis in ArchR
 
 This repository contains the analysis pipeline and results for a single-cell ATAC-seq (scATAC-seq) project focused on chromatin accessibility profiling across different neuronal cell types.
 
